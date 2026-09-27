@@ -16,7 +16,7 @@ I'm a Digital Marketing & SEO Specialist focused on practical SEO, WordPress, AI
 
 I create practical resources designed to help businesses, marketers, and website owners improve their search visibility and digital presence.
 
-🌐 **Market Latch:** https://marketlatch.com/
+🌐 **Market Latch:** [Market Latch](https://marketlatch.com/)
 
 ## Free SEO Resources on GitHub
 
@@ -54,10 +54,9 @@ A focused audit framework for crawlability, indexability, canonicalization, redi
 
 ## Connect
 
-* Website: https://marketlatch.com/
-* LinkedIn: https://www.linkedin.com/company/marketlatch/
+* Website: [Market Latch](https://marketlatch.com/)
+* LinkedIn: [Market Latch on LinkedIn](https://www.linkedin.com/company/marketlatch/)
 
 ---
 
 *Building practical digital marketing resources through Market Latch.*
-
