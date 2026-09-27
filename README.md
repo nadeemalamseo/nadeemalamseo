@@ -24,7 +24,7 @@ I'm gradually publishing practical SEO, WordPress, structured data, and digital 
 
 The goal is simple: create resources that are useful enough to be used, shared, improved, and referenced by other professionals.
 
-### Featured Resource
+### Featured Resources
 
 **AI SEO Implementation Checklist**
 
@@ -32,7 +32,11 @@ A practical checklist covering technical SEO, AI search readiness, content optim
 
 📋 [View the AI SEO Implementation Checklist](https://nadeemalamseo.github.io/ai-seo-implementation-checklist/)
 
-📦 [View the GitHub Repository](https://github.com/nadeemalamseo/ai-seo-implementation-checklist)
+**Technical SEO Audit Checklist**
+
+A focused audit framework for crawlability, indexability, canonicalization, redirects, sitemaps, site architecture, performance, rendering, and technical validation.
+
+🔎 [View the Technical SEO Audit Checklist](https://github.com/nadeemalamseo/technical-seo-audit-checklist)
 
 ## Areas of Interest
 
