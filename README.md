@@ -18,11 +18,21 @@ I create practical resources designed to help businesses, marketers, and website
 
 🌐 **Market Latch:** https://marketlatch.com/
 
-## Open-Source & Free Resources
+## Free SEO Resources on GitHub
 
 I'm gradually publishing practical SEO, WordPress, structured data, and digital marketing resources on GitHub.
 
 The goal is simple: create resources that are useful enough to be used, shared, improved, and referenced by other professionals.
+
+### Featured Resource
+
+**AI SEO Implementation Checklist**
+
+A practical checklist covering technical SEO, AI search readiness, content optimization, structured data, entity optimization, internal linking, authority, and measurement.
+
+📋 [View the AI SEO Implementation Checklist](https://nadeemalamseo.github.io/ai-seo-implementation-checklist/)
+
+📦 [View the GitHub Repository](https://github.com/nadeemalamseo/ai-seo-implementation-checklist)
 
 ## Areas of Interest
 
